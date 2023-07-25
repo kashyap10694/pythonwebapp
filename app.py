@@ -1,3 +1,4 @@
+#This code creates sample python webapp
 from flask import Flask, render_template
 
 app = Flask(__name__)
